@@ -1,3 +1,5 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
+
 <h1 align="center">Hi 👋, I'm Priti Yadav</h1>
 <h3 align="center">A passionate Data Engineer from Mumbai,India</h3>
 
