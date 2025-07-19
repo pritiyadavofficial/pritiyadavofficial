@@ -1,7 +1,13 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
 
 <h1 align="center">Hi 👋, I'm Priti Yadav</h1>
-<h3 align="center">A passionate Data Engineer from Mumbai,India</h3>
+<h3 align="center">A passionate Data Engineer from `Mumbai, India` </h3> 
+
+<br>
+<div align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pritiyadavofficial&data=followers,repositories,stars,commits&theme=nautilus)](https://linktr.ee/pritiyadavofficial)
+</div>
 
 - 🔭 I’m currently working on **Gen AI Projects**
 
