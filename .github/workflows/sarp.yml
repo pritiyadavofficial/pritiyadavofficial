@@ -2,11 +2,13 @@ name: Sarp
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Run every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -22,10 +24,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: List dist contents (Debug)
-        run: ls -la dist/ || echo "dist directory not found"
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
