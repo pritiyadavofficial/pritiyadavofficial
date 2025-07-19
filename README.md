@@ -41,8 +41,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake-dark.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pritiyadavofficial/pritiyadavofficial/output/github-snake-dark.svg" type="image/svg+xml" />
+  <img src="https://raw.githubusercontent.com/pritiyadavofficial/pritiyadavofficial/output/github-snake.svg" alt="GitHub contribution grid snake animation" />
 </picture>
 
 <br><br>
