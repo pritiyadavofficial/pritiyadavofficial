@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Capriola&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=500&lines=Generative+AI+Developer;AI+%26+ML+Explorer;Data+Science+Enthusiast;Always+Learning)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Capriola&size=32&pause=1500&color=00C2FF&center=true&vCenter=true&width=500&lines=Generative+AI+Developer;AI+%26+ML+Explorer;Data+Science+Enthusiast;Always+Learning)](https://linktr.ee/pritiyadavofficial) 
 </div>
 
 <br>
@@ -66,7 +66,7 @@
 ## My Trophies
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PratyushPuri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pritiyadavofficial&theme=onedark)](https://linktr.ee/pritiyadavofficial)
 <br>
 
 ---
