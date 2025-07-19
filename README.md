@@ -40,9 +40,10 @@
 <br>
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pritiyadavofficial/pritiyadavofficial/output/github-snake-dark.svg" type="image/svg+xml" />
-  <img src="https://raw.githubusercontent.com/pritiyadavofficial/pritiyadavofficial/output/github-snake.svg" alt="GitHub contribution grid snake animation" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pritiyadavofficial/pritiyadavofficial/output/github-snake-dark.svg" />
+<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/pritiyadavofficial/pritiyadavofficial/output/github-snake.svg" />
 </picture>
 
 <br><br>
