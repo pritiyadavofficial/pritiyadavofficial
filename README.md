@@ -56,7 +56,6 @@
 ![Main Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pritiyadavofficial&theme=github_dark)
 ![Grade Stats](https://github-readme-stats.vercel.app/api?username=pritiyadavofficial&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=79ff97&title_color=79ff97&border_color=30363d&border_radius=10)
 <br>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritiyadavofficial&theme=neon-dark&border=00ff00&stroke=00ff00&ring=00ff00&fire=ff0080&currStreakLabel=00ff00)
 </div>
 <br><br>
 
